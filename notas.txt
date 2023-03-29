@@ -1,0 +1,36 @@
+Calculadora de recetas, tratamientos y/o fertilizantes
+Mensajes en tiempo real
+whatsapp chatbot
+listado de maquinaria
+notificaciones sobre incidencias
+informacion meteorologica
+calendario por parcela
+calendario por periodo
+listado de actividades(relacionando equipo de trabajo, fecha inicio y fecha conclusion)
+
+
+
+********Pasos*********
+Agregar una parcela mediante mapa
+
+
+actividades
+existen actividades que requieren maquinaria, otras que requieren productos y otras que requieren plantas
+
+grupo de actividades
+1.-Actividades de siembra  
+    1.1.-Plantada
+    1.2.-Replante
+2.-Actividades mecanizables
+    2.1.-Subsuelo
+    2.2.-Rastra
+    2.3.-Palomeo
+    2.4.-Rayar
+3.-Actividades de aplicacion
+    3.1.-Foliar
+    3.2.-Drench
+    3.3.-Sello
+    3.4.-Herbicida
+    3.5.-Compostear
+    3.6.-Cal
+    3.7.-Yeso

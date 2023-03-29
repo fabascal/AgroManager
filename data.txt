@@ -1,0 +1,7 @@
+***Postgresql***
+user - chris
+pass - 1234
+
+---pgadmin---
+user - fabascal@live.com.mx
+pass - 123456
